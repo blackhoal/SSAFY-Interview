@@ -31,5 +31,5 @@
 [원격의료, 세계인의 삶 바꾼다 4](https://kormedi.com/1543067/%EC%B4%88%EC%A7%84%EB%B6%80%ED%84%B0-%EC%A7%91%EC%97%90%EC%84%9C-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%A0%84%EB%A9%B4%EA%B0%9C%EB%B0%A9-%E6%97%A5-%EC%9D%98%EB%A3%8C%EB%8A%94/)  
 [원격의료, 세계인의 삶 바꾼다 5](https://kormedi.com/1544298/%E6%97%A5-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%9D%98%EB%A3%8C-%EC%98%A4%EC%A7%84%EC%B1%85%EC%9E%84%C2%B7%EC%88%98%EA%B0%80-%EB%AC%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C/)  
 
-## PT 면접
+## PT 면접 - 헬스케어 분야의 전망
 
