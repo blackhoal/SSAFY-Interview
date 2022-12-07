@@ -1,1 +1,32 @@
-[해외 원격의료 사례](https://kormedi.com/1541056/%EB%B0%B0-%EC%95%84%ED%94%8C-%EB%95%8C%EB%8F%84-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%A7%84%EB%A3%8C%EB%A5%BC-%EC%9D%B8%EB%8B%88-%EC%9B%90%EA%B2%A9%EC%9D%98%EB%A3%8C-%EB%B9%9B%EA%B3%BC-%EA%B7%B8/)
+# 헬스케어
+## 개념
+- 의료 영역에 정보통신기술(ICT)을 융합해 개인 건강과 질병에 맞춰 필요한 의료 서비스나 건강관리 서비스를 제공하는 산업 또는 기술
+- 기존의 치료 부문 의료서비스에 질병 예방 및 관리 개념을 합친 전반적인 건강관리 사업
+
+## 특징
+- 각종 IT 기술을 활용하여 언제 어디서나 건강 관리를 받는 것(원격 의료 서비스)이 가능
+- 전국의 병원과 헬스 서비스 네트워크를 구축해 주치의에 의한 맞춤형 개인 건강 관리 가능
+- 병원 중심의 U-Hospital에서 개인 중심의 Home Health care로 발전
+
+## 장점
+- 노인 및 만성질환 환자 등 수시로 관리가 필요한 인원에 대해 개인의 상태를 지속적으로 측정 가능
+- 기기를 통한 측정 및 데이터 분석을 통해 진단 및 상담 등의 서비스 연계 가능
+- 병원 대기시간, 진료시간, 병원비 등의 비용 절약 가능
+
+## 단점
+- 진단 결과에 대한 신뢰성 낮음
+- 대부분의 경우가 스마트폰 또는 관련 제품의 구입이 필요
+- 진단 결과에 대한 외부 유출 등의 보안 이슈
+
+## 활용방안
+
+## 기사
+[디지털 헬스케어 요약](https://eiec.kdi.re.kr/publish/reviewView.do?idx=58&ridx=5&fcode=000020003600002)  
+[원격의료, 세계인의 삶 바꾼다 1](https://kormedi.com/1537026/%EC%BD%94%EB%A1%9C%EB%82%9819%EB%A1%9C-%EB%B9%97%EC%9E%A5-%EC%97%B4%EB%A6%B0-%EC%9B%90%EA%B2%A9%EC%9D%98%EB%A3%8C%ED%95%9C%EA%B5%AD%EC%9D%80-%EC%97%AC%EC%A0%84%ED%9E%88-%EA%B7%9C%EC%A0%9C/)  
+[원격의료, 세계인의 삶 바꾼다 2](https://kormedi.com/1539058/%EA%B5%AC%EB%8D%94%EA%B8%B0-%EB%AC%B4%EC%84%9C%EC%9B%8C-%EC%9E%A5-%EB%AA%BB-%EB%8B%B4%EA%B7%B8%EB%8A%94-%ED%95%9C%EA%B5%AD-%EC%9B%90%EA%B2%A9%EC%9D%98%EB%A3%8C-%ED%9B%84%EC%A7%84%EA%B5%AD-%EC%A0%84/)  
+[원격의료, 세계인의 삶 바꾼다 3](https://kormedi.com/1541056/%EB%B0%B0-%EC%95%84%ED%94%8C-%EB%95%8C%EB%8F%84-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%A7%84%EB%A3%8C%EB%A5%BC-%EC%9D%B8%EB%8B%88-%EC%9B%90%EA%B2%A9%EC%9D%98%EB%A3%8C-%EB%B9%9B%EA%B3%BC-%EA%B7%B8/)  
+[원격의료, 세계인의 삶 바꾼다 4](https://kormedi.com/1543067/%EC%B4%88%EC%A7%84%EB%B6%80%ED%84%B0-%EC%A7%91%EC%97%90%EC%84%9C-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%A0%84%EB%A9%B4%EA%B0%9C%EB%B0%A9-%E6%97%A5-%EC%9D%98%EB%A3%8C%EB%8A%94/)  
+[원격의료, 세계인의 삶 바꾼다 5](https://kormedi.com/1544298/%E6%97%A5-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%9D%98%EB%A3%8C-%EC%98%A4%EC%A7%84%EC%B1%85%EC%9E%84%C2%B7%EC%88%98%EA%B0%80-%EB%AC%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C/)  
+
+## PT 면접
+
