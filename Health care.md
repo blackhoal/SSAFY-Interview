@@ -19,9 +19,12 @@
 - 진단 결과에 대한 외부 유출 등의 보안 이슈
 
 ## 활용방안
+- 스마트폰과 스마트워치 등을 통해 측정한 심전도 데이터를 기반으로 부정맥을 진단
+- 응급실이나 중환자실에서 측정하고 통합한 데이터를 인공지능으로 실시간 모니터링하고 분석하여 부정맥, 패혈증 및 급성호흡기곤란 증후군 등 응급상황이 발생하는 것을 미리 예측
 
 ## 기사
 [디지털 헬스케어 요약](https://eiec.kdi.re.kr/publish/reviewView.do?idx=58&ridx=5&fcode=000020003600002)  
+[디지털 헬스케어 트렌드](http://www.whosaeng.com/133139)  
 [원격의료, 세계인의 삶 바꾼다 1](https://kormedi.com/1537026/%EC%BD%94%EB%A1%9C%EB%82%9819%EB%A1%9C-%EB%B9%97%EC%9E%A5-%EC%97%B4%EB%A6%B0-%EC%9B%90%EA%B2%A9%EC%9D%98%EB%A3%8C%ED%95%9C%EA%B5%AD%EC%9D%80-%EC%97%AC%EC%A0%84%ED%9E%88-%EA%B7%9C%EC%A0%9C/)  
 [원격의료, 세계인의 삶 바꾼다 2](https://kormedi.com/1539058/%EA%B5%AC%EB%8D%94%EA%B8%B0-%EB%AC%B4%EC%84%9C%EC%9B%8C-%EC%9E%A5-%EB%AA%BB-%EB%8B%B4%EA%B7%B8%EB%8A%94-%ED%95%9C%EA%B5%AD-%EC%9B%90%EA%B2%A9%EC%9D%98%EB%A3%8C-%ED%9B%84%EC%A7%84%EA%B5%AD-%EC%A0%84/)  
 [원격의료, 세계인의 삶 바꾼다 3](https://kormedi.com/1541056/%EB%B0%B0-%EC%95%84%ED%94%8C-%EB%95%8C%EB%8F%84-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%A7%84%EB%A3%8C%EB%A5%BC-%EC%9D%B8%EB%8B%88-%EC%9B%90%EA%B2%A9%EC%9D%98%EB%A3%8C-%EB%B9%9B%EA%B3%BC-%EA%B7%B8/)  
