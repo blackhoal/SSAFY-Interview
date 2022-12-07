@@ -19,7 +19,7 @@
 ## 기사
 - https://biz.chosun.com/it-science/ict/2022/11/10/GBESP6DUPBBBFF7VINUHCMHE4E/
 
-## PT 면접
+## PT 면접 - 망 사용료 이슈로 인한 트위치 영상 화질 저하 사태에 대한 견해
 
 ## Reference
 [망 중립성 개요 1](https://nordvpn.com/ko/blog/pros-and-cons-of-net-neutrality/)  
