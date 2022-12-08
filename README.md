@@ -5,7 +5,7 @@
 - [ ] 04. 모빌리티  
 - [X] 05. [헬스케어](https://github.com/blackhoal/SSAFY-Interview/blob/main/Health%20care.md)  
 - [ ] 06. 스마트팜  
-- [ ] 07. 클라우드  
+- [ ] 07. [클라우드](https://github.com/blackhoal/SSAFY-Interview/blob/main/Cloud.md)  
 - [ ] 08. 로봇  
 - [ ] 09. 블록체인  
 - [ ] 10. 메타버스  
