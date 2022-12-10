@@ -25,8 +25,8 @@
   - 예시 : 풍력 발전기 날개의 경사각을 시뮬레이션하여 최적화하고 발전량을 증대
 
 ## 기사
-[기업에는 인사이트, 공격자에게는 기회? 디지털 트윈 공격 대응 방법](https://www.itworld.co.kr/news/268611)
-[문제점 기사 2](https://www.ciokorea.com/news/268491)
+[기업에는 인사이트, 공격자에게는 기회? 디지털 트윈 공격 대응 방법](https://www.itworld.co.kr/news/268611)  
+[문제점 기사 2](https://www.ciokorea.com/news/268491)  
 
 ## PT 면접 - 디지털 트윈 보안 이슈
 
