@@ -26,6 +26,7 @@
 
 ## 기사
 [기업에는 인사이트, 공격자에게는 기회? 디지털 트윈 공격 대응 방법](https://www.itworld.co.kr/news/268611)
+[문제점 기사 2](https://www.ciokorea.com/news/268491)
 
 ## PT 면접 - 디지털 트윈 보안 이슈
 
