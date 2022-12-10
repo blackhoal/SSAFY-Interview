@@ -8,7 +8,7 @@
 - [X] 07. [클라우드](https://github.com/blackhoal/SSAFY-Interview/blob/main/Cloud.md)  
 - [ ] 08. 로봇  
 - [ ] 09. 블록체인  
-- [ ] 10. 메타버스  
+- [ ] 10. [메타버스](https://github.com/blackhoal/SSAFY-Interview/blob/main/Metaverse.md)  
 - [ ] 11. OTT  
 - [ ] 12. 핀테크  
 - [X] 13. [웹 3.0](https://github.com/blackhoal/SSAFY-Interview/blob/main/Web%203.0.md)  
