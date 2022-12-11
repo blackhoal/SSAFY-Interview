@@ -55,6 +55,7 @@
 ## 기사
 [문제점 기사 1](https://www.cctvnews.co.kr/news/articleView.html?idxno=233372)  
 [문제점 기사 2](https://www.sciencetimes.co.kr/news/%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%EC%9D%98-%EB%B6%80%EC%9E%91%EC%9A%A9%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C/)  
-[문제점 기사 3](https://biz.chosun.com/distribution/channel/2022/11/13/JQTBC6OPZRAPLJCUQRIL5VDL2U/)
+[문제점 기사 3](https://biz.chosun.com/distribution/channel/2022/11/13/JQTBC6OPZRAPLJCUQRIL5VDL2U/)  
+[“차세대 혁신과 물거품 사이” 기로에 선 메타버스의 미래](https://news.zum.com/articles/79739988)  
 
 ## PT 면접
