@@ -27,6 +27,7 @@
 [기사 2](https://www.cctvnews.co.kr/news/articleView.html?idxno=229877)  
 [기사 3](https://www.ajunews.com/view/20200330041313279)  
 [기사 4](https://www.ajunews.com/view/20200330041442280)  
+[빅브라더 해결방안](https://www.mk.co.kr/news/it/8081257)
 
 ## PT 면접 - 클라우드 보안 이슈에 대한 해결책
 안녕하십니까
